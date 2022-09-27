@@ -60,9 +60,11 @@ body {
   align-items: center;
   margin-top: 0;
   font-size: 40px;
+  color: white;
 }
 
 .country-info p {
   font-size: 22px;
   font-weight: 500;
+  color: white;
 }
